@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Shropshire Way",
+    "description": "Allscott to Upton Magna",
+    "gpx": "routes/shropshire-way.gpx"
+  },
+  {
+    "name": "To the Tayleur",
+    "description": "Rodinton to Longden via Ercall Mill",
+    "gpx": "routes/to-the-tayleur.gpx"
+  },
+  {
+    "name": "Rodington Loop,
+    "description": "Loop from Rodington taking in Withington",
+    "gpx": "routes/rodington-loop.gpx"
+  }
+]
